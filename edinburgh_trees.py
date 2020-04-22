@@ -1,6 +1,6 @@
 '''
 
-This Script is used to prepare the Edinburgh Trees data for the point density map visualization example.
+This Script is used to prepare the Edinburgh Trees dataset for the Point Density Map visualization example.
 
 '''
 
