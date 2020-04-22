@@ -1,3 +1,9 @@
+'''
+
+This Script is used to prepare the Edinburgh Trees data for the point density map visualization example.
+
+'''
+
 import os
 import pandas as pd
 import geopandas as gpd
