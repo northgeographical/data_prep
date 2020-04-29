@@ -1,3 +1,11 @@
+'''
+
+This Script is used to prepare the World Forest Cover dataset for the Choropleth Map visualization example.
+
+'''
+
+
+
 # Import Modules
 import pandas as pd
 import geopandas as gpd
